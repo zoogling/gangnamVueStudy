@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@nuxtjs/vuetify": "^1.6.1",
-    "nuxt": "^2.9.2",
+    "@nuxtjs/vuetify": "^1.12.3",
+    "nuxt": "^3.0.0",
     "vue": "^2.6.10",
     "vuetify": "^2.0.11"
   }
